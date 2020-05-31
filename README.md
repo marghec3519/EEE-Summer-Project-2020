@@ -20,4 +20,5 @@ We need to understand/clarify:
 - how the LFO connects to the oscillator
 
 
-next Meeting 25/05/2020
+- At min 5:30 illustrates calculus to determine values of C and R depending on frequency https://www.youtube.com/watch?v=-_Ny8YjPY-U
+
