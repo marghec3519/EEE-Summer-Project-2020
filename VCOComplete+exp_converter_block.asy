@@ -1,0 +1,16 @@
+Version 4
+SymbolType BLOCK
+RECTANGLE Normal -128 -40 144 40
+WINDOW 0 8 -40 Bottom 2
+PIN -128 -16 LEFT 8
+PINATTR PinName KEY
+PINATTR SpiceOrder 1
+PIN -128 16 LEFT 8
+PINATTR PinName LFO
+PINATTR SpiceOrder 2
+PIN 144 -16 RIGHT 8
+PINATTR PinName vo1_triangle
+PINATTR SpiceOrder 3
+PIN 144 16 RIGHT 8
+PINATTR PinName vo2_square
+PINATTR SpiceOrder 4
