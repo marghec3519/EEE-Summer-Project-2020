@@ -1,0 +1,22 @@
+Version 4
+SymbolType BLOCK
+RECTANGLE Normal -224 -72 240 72
+WINDOW 0 8 -72 Bottom 2
+PIN -224 -16 LEFT 8
+PINATTR PinName carrier_signal
+PINATTR SpiceOrder 1
+PIN -224 16 LEFT 8
+PINATTR PinName trigger
+PINATTR SpiceOrder 2
+PIN 240 -48 RIGHT 8
+PINATTR PinName OUTPUT
+PINATTR SpiceOrder 3
+PIN 240 -16 RIGHT 8
+PINATTR PinName OUTPUT_shape+
+PINATTR SpiceOrder 4
+PIN 240 16 RIGHT 8
+PINATTR PinName OUTPUT_shape-
+PINATTR SpiceOrder 5
+PIN 240 48 RIGHT 8
+PINATTR PinName Vout_timer
+PINATTR SpiceOrder 6
