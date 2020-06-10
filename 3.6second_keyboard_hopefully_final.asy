@@ -1,0 +1,19 @@
+Version 4
+SymbolType BLOCK
+RECTANGLE Normal -144 -56 160 56
+WINDOW 0 8 -56 Bottom 2
+PIN -144 -16 LEFT 8
+PINATTR PinName vcc
+PINATTR SpiceOrder 1
+PIN -144 16 LEFT 8
+PINATTR PinName vee
+PINATTR SpiceOrder 2
+PIN 160 -32 RIGHT 8
+PINATTR PinName KEY1
+PINATTR SpiceOrder 3
+PIN 160 0 RIGHT 8
+PINATTR PinName KEY2
+PINATTR SpiceOrder 4
+PIN 160 32 RIGHT 8
+PINATTR PinName trigger_signal
+PINATTR SpiceOrder 5
