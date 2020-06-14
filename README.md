@@ -4,7 +4,7 @@ Place where we are going to share our work and progress.
 IMPORTANT!! : transient analysis of some blocks works only by leaving the ".options  abstol=1e-10" ".options  cshunt=1e-15" .options   reltol=0.003" directives =>> do not remove these
 - remember to mainly commit the .asc files  + record the the testing if the single blocks for final report
 
-Meetings: 15/05/2020 - 18/05/2020 - 22/05/2020 - 25/05/2020 - 28/05/2020 - 31/05/2020 - 2/06/2020 - 4/06/2020 - 7/06/2020 - 8/06/2020 - 9/06/2020 -10/06/2020 - 11/06/2020 - 12//06/2020 - 13/06/2020 - 14/6/2020
+Meetings: 15/05/2020 - 18/05/2020 - 22/05/2020 - 25/05/2020 - 28/05/2020 - 31/05/2020 - 2/06/2020 - 4/06/2020 - 7/06/2020 - 8/06/2020 - 9/06/2020 -10/06/2020 - 11/06/2020 - 12//06/2020 - 13/06/2020 
 
 
 We discussed and divided the basic single block diagrams that build up the synthesizer: 
